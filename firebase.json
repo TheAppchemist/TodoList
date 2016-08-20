@@ -1,0 +1,16 @@
+{
+	"todos": [
+		{
+	      "name": "Do 123",
+	      "status": "untouched"
+	    },
+	    {
+	      "name": "Learn Ionic",
+	      "status": "untouched"
+	    },
+	    {
+	      "name": "Create Mobile App",
+	      "status": "untouched"
+	    }
+	]
+}
